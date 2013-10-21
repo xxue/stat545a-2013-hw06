@@ -3,5 +3,5 @@ list.files(pattern = "*.png$")
 file.remove(vooutputs)
          
 #Run the two scripts
-source("cleanvoc.r")
-source("plotvoc.r")
+source("01_cleanvoc.r")
+source("01_plotvoc.r")
