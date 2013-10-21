@@ -1,0 +1,588 @@
+Order	Name	Location	Status	lat	NS	long	EW	Elev	Type	Eruptype
+1	West Eifel Volc Field	Germany	Radiocarbon	50.17	N	6.85	E	600	Maars	S0
+2	Chaine des Puys	France	Radiocarbon	45.775	N	2.97	E	1464	Cinder cones	M0
+3	Olot Volc Field	Spain	Holocene	42.17	N	2.53	E	893	Pyroclastic cones	M0
+4	Calatrava Volc Field	Spain	Radiocarbon	38.87	N	4.02	W	1117	Pyroclastic cones	M0
+5	Larderello	Italy	Historical	43.25	N	10.87	E	500	Explosion craters	S0
+6	Vulsini	Italy	Historical	42.6	N	11.93	E	800	Caldera	S0
+7	Alban Hills	Italy	Holocene maybe	41.73	N	12.7	E	949	Caldera	S0
+8	Campi Flegrei	Italy	Historical	40.827	N	14.139	E	458	Caldera	S0
+9	Vesuvius	Italy	Historical	40.821	N	14.426	E	1281	Somma volcano	S2
+10	Ischia	Italy	Historical	40.73	N	13.897	E	789	Complex volcano	S0
+11	Panarea	Italy	Holocene maybe	38.63	N	15.07	E	421	Stratovolcano	S0
+12	Lipari	Italy	Historical	38.48	N	14.95	E	602	Stratovolcanoes	S0
+13	Stromboli	Italy	Historical	38.789	N	15.213	E	924	Stratovolcano	M1
+14	Vulcano	Italy	Historical	38.404	N	14.962	E	500	Stratovolcanoes	S2
+15	Etna	Italy	Historical	37.734	N	15.004	E	3330	Stratovolcanoes	M1
+16	Pantelleria	Italy	Historical	36.77	N	12.02	E	836	Shield volcano	S0
+17	Campi Flegrei Mar Sicilia	Italy	Historical	37.1	N	12.7	E	-8	Submarine volcanoes	M0
+18	Methana	Greece	Historical	37.615	N	23.336	E	760	Lava domes	S0
+19	Mílos	Greece	Radiocarbon	36.699	N	24.439	E	751	Stratovolcanoes	S0
+20	Santorini	Greece	Historical	36.404	N	25.396	E	367	Shield volcanoes	S1
+21	Yali	Greece	Holocene	36.671	N	27.14	E	180	Lava domes	S0
+22	Nisyros	Greece	Historical	36.586	N	27.16	E	698	Stratovolcano	S0
+23	Kula	Turkey	Holocene	38.58	N	28.52	E	750	Cinder cones	M0
+24	Karapinar Field	Turkey	Holocene	37.67	N	33.65	E	1302	Cinder cones	M0
+25	Hasan Dagi	Turkey	Anthropology	38.13	N	34.17	E	3253	Stratovolcano	S0
+26	G maybellü Dag	Turkey	Holocene maybe	38.25	N	34.57	E	2143	Lava dome	S0
+27	Acig maybel-Nevsehir	Turkey	Anthropology	38.57	N	34.52	E	1689	Caldera	S0
+28	Karaca Dag	Turkey	Holocene	37.67	N	39.83	E	1957	Shield volcano	M0
+29	Erciyes Dagi	Turkey	Holocene maybe	38.52	N	35.48	E	3916	Stratovolcano	S0
+30	Süphan Dagi	Turkey	Holocene	38.92	N	42.82	E	4158	Stratovolcano	S0
+31	Girekol	Turkey	Holocene	39.17	N	43.33	E		Unknown	S0
+32	Nemrut Dagi	Turkey	Historical	38.65	N	42.23	E	2948	Stratovolcano	S0
+33	Tendürek Dagi	Turkey	Historical	39.37	N	43.87	E	3584	Shield volcano	M0
+34	Ararat	Turkey	Historical	39.7	N	44.3	E	5165	Stratovolcano	S0
+35	Kars Plateau	Turkey	Holocene maybe	40.75	N	42.9	E	3000	Volcanic field	S0
+36	Elbrus	Russia-SW	Tephrochronology	43.33	N	42.45	E	5633	Stratovolcano	S0
+37	Kasbek	Georgia	Tephrochronology	42.7	N	44.5	E	5050	Stratovolcano	S0
+38	Kabargin Oth Group	Georgia	Holocene	42.55	N	44	E	3650	Cinder cones	S0
+39	Unnamed	Georgia	Holocene	42.45	N	44.25	E	3750	Cinder cones	S0
+40	Unnamed	Georgia	Holocene	41.55	N	43.6	E	3400	Lava cones	S0
+41	Aragats	Armenia	Holocene	40.53	N	44.2	E	4095	Stratovolcano	S0
+42	Ghegam Ridge	Armenia	Anthropology	40.275	N	44.75	E	3597	Volcanic field	S0
+43	Dar-Alages	Armenia	Anthropology	39.7	N	45.542	E	3329	Pyroclastic cones	S0
+44	Porak	Armenia	Anthropology	40.02	N	45.78	E	2800	Stratovolcano	S0
+45	Tskhouk-Karckar	Armenia	Tephrochronology	39.73	N	46.02	E	3000	Pyroclastic cones	S0
+46	Tair Jebel at	Red Sea	Historical	15.55	N	41.83	E	244	Stratovolcano	M1
+47	Zukur	Red Sea	Holocene	14.02	N	42.75	E	624	Shield volcano	M0
+48	Hanish	Red Sea	Holocene	13.72	N	42.73	E	422	Shield volcano	M0
+49	Zubair Jebel	Red Sea	Historical	15.05	N	42.18	E	191	Shield volcano	M0
+50	Jalua	Ethiopia	Holocene	15.042	N	39.82	E	713	Stratovolcano	M0
+51	Dallol	Ethiopia	Historical	14.242	N	40.3	E	-48	Explosion craters	S0
+52	Alid	Ethiopia	Holocene	14.88	N	39.92	E	904	Stratovolcano	S0
+53	Gada Ale	Ethiopia	Holocene	13.975	N	40.408	E	287	Stratovolcano	M0
+54	Alu	Ethiopia	Holocene	13.825	N	40.508	E	429	Fissure vents	M0
+55	Borale Ale	Ethiopia	Holocene	13.725	N	40.6	E	668	Stratovolcano	M0
+56	Dalaffilla	Ethiopia	Historical	13.792	N	40.55	E	613	Stratovolcano	M0
+57	Erta Ale	Ethiopia	Historical	13.6	N	40.67	E	613	Shield volcano	M1
+58	Hayli Gubbi	Ethiopia	Holocene	13.5	N	40.72	E	521	Shield volcano	M0
+59	Ale Bagu	Ethiopia	Holocene	13.52	N	40.63	E	1031	Stratovolcano	M0
+60	Nabro	Ethiopia	Holocene maybe	13.37	N	41.7	E	2218	Stratovolcano	S0
+61	Mallahle	Ethiopia	Holocene maybe	13.27	N	41.65	E	1875	Stratovolcano	S0
+62	Sork Ale	Ethiopia	Holocene maybe	13.18	N	41.725	E	1611	Stratovolcano	M0
+63	Asavyo	Ethiopia	Holocene	13.07	N	41.6	E	1200	Shield volcano	M0
+64	Mat Ala	Ethiopia	Holocene	13.1	N	41.15	E	523	Shield volcano	M0
+65	Tat Ali	Ethiopia	Holocene	13.28	N	41.07	E	700	Shield volcano	M0
+66	Borawli	Ethiopia	Holocene	13.3	N	40.98	E	812	Stratovolcano	M0
+67	Dubbi	Ethiopia	Historical	13.58	N	41.808	E	1625	Stratovolcano	M0
+68	Ma Alalta	Ethiopia	Holocene	13.02	N	40.2	E	1815	Stratovolcano	S0
+69	Alayta	Ethiopia	Historical	12.88	N	40.57	E	1501	Shield volcano	M0
+70	Dabbahu	Ethiopia	Historical	12.6	N	40.48	E	1442	Stratovolcano	S0
+71	Dabbayra	Ethiopia	Holocene	12.38	N	40.07	E	1302	Shield volcano	M0
+72	Manda Hararo	Ethiopia	Historical	12.17	N	40.82	E	600	Shield volcanoes	M0
+73	Groppo	Ethiopia	Holocene	11.73	N	40.25	E	930	Stratovolcano	S0
+74	Afderà	Ethiopia	Holocene maybe	13.08	N	40.85	E	1295	Stratovolcano	S0
+75	Borawli	Ethiopia	Holocene	11.63	N	41.45	E	875	Lava domes	S0
+76	Manda-Inakir	Ethiopia	Historical	12.38	N	42.2	E	600	Fissure vents	M0
+77	Mousa Alli	Ethiopia	Holocene	12.47	N	42.4	E	2028	Stratovolcano	S0
+78	Gufa	Ethiopia	Holocene	12.55	N	42.53	E	600	Volcanic field	M0
+79	Assab Volc Field	Ethiopia	Holocene	12.95	N	42.43	E	987	Volcanic field	M0
+80	Ardoukba	Djibouti	Historical	11.58	N	42.47	E	298	Fissure vents	M0
+81	Kurub	Ethiopia	Holocene	11.88	N	41.208	E	625	Shield volcano	M0
+82	Dama Ali	Ethiopia	Historical	11.28	N	41.63	E	1068	Shield volcano	M0
+83	Yangudi	Ethiopia	Holocene	10.58	N	41.042	E	1383	Complex volcano	S0
+84	Gabillema	Ethiopia	Holocene	11.08	N	41.27	E	1459	Stratovolcano	S0
+85	Ayelu	Ethiopia	Holocene	10.082	N	40.702	E	2145	Stratovolcano	S0
+86	Hertali	Ethiopia	Holocene	9.78	N	40.33	E	900	Fissure vent	M0
+87	Liado Hayk	Ethiopia	Holocene maybe	9.57	N	40.28	E	878	Maars	S0
+88	Adwa	Ethiopia	Holocene	10.07	N	40.84	E	1733	Stratovolcano	S0
+89	Dofen	Ethiopia	Holocene	9.35	N	40.13	E	1151	Stratovolcano	S0
+90	Beru	Ethiopia	Holocene	8.95	N	39.75	E	1100	Volcanic field	M0
+91	Fentale	Ethiopia	Historical	8.975	N	39.93	E	2007	Stratovolcano	S0
+92	Kone	Ethiopia	Historical	8.8	N	39.692	E	1619	Calderas	S0
+93	Unnamed	Ethiopia	Holocene	8.7	N	39.63	E	1300	Pyroclastic cones	M0
+94	Boset-Bericha	Ethiopia	Holocene	8.558	N	39.475	E	2447	Stratovolcanoes	S0
+95	Bishoftu Volc Field	Ethiopia	Holocene	8.78	N	38.98	E	1850	Fissure vents	M0
+96	Unnamed	Ethiopia	Holocene	8.62	N	38.95	E	1800	Fissure vents	M0
+97	Sodore	Ethiopia	Holocene	8.43	N	39.35	E	1765	Pyroclastic cones	M0
+98	Gedamsa Caldera	Ethiopia	Holocene	8.35	N	39.18	E	1984	Caldera	S0
+99	Bora-Bericcio	Ethiopia	Holocene	8.27	N	39.03	E	2285	Pumice cones	S0
+100	Tullu Moje	Ethiopia	Anthropology	8.158	N	39.13	E	2349	Pumice cone	S0
+101	Unnamed	Ethiopia	Holocene	8.07	N	39.07	E	1800	Fissure vents	M0
+102	East Zway	Ethiopia	Holocene	7.95	N	38.93	E	1889	Fissure vents	M0
+103	Butajiri-Silti Field	Ethiopia	Holocene	8.05	N	38.35	E	2281	Fissure vents	M0
+104	Alutu	Ethiopia	Radiocarbon	7.77	N	38.78	E	2335	Stratovolcano	S0
+105	O'a Caldera	Ethiopia	Holocene	7.47	N	38.58	E	2075	Caldera	S0
+106	Corbetti Caldera	Ethiopia	Holocene	7.18	N	38.43	E	2320	Caldera	S0
+107	Bilate River Field	Ethiopia	Holocene	7.07	N	38.1	E	1700	Maars	S0
+108	Tepi	Ethiopia	Holocene	7.42	N	35.43	E	2728	Shield volcano	M0
+109	Hobicha Caldera	Ethiopia	Holocene maybe	6.78	N	37.83	E	1800	Caldera	M0
+110	Chiracha	Ethiopia	Holocene maybe	6.65	N	38.12	E	1650	Stratovolcano	S0
+111	Tosa Sucha	Ethiopia	Holocene	5.93	N	37.57	E	1650	Cinder cones	M0
+112	Unnamed	Ethiopia	Holocene	5.65	N	37.67	E	1200	Cinder cones	M0
+113	Korath Range	Ethiopia	Holocene maybe	5.1	N	35.88	E	912	Tuff cones	M0
+114	Mega Basalt Field	Ethiopia	Holocene	4.08	N	37.42	E	1067	Pyroclastic cones	M0
+115	North Island	Africa-E	Holocene	4.07	N	36.05	E	520	Tuff cones	S0
+116	Central Island	Africa-E	Holocene	3.5	N	36.042	E	550	Tuff cones	M0
+117	Marsabit	Africa-E	Holocene maybe	2.32	N	37.97	E	1707	Shield volcano	M0
+118	South Island	Africa-E	Historical	2.63	N	36.6	E	800	Stratovolcano	M0
+119	Barrier The	Africa-E	Historical	2.32	N	36.57	E	1032	Shield volcano	S1
+120	Namarunu	Africa-E	Tephrochronology	1.98	N	36.43	E	817	Shield volcano	M0
+121	Segererua Plateau	Africa-E	Holocene	1.57	N	37.9	E	699	Pyroclastic cones	M0
+122	Emuruangogolak	Africa-E	Radiocarbon	1.5	N	36.33	E	1328	Shield volcano	S0
+123	Silali	Africa-E	Ar/Ar	1.15	N	36.23	E	1528	Shield volcano	S0
+124	Paka	Africa-E	Ar/Ar	0.92	N	36.18	E	1697	Shield volcano	S0
+125	Korosi	Africa-E	Holocene	0.77	N	36.12	E	1446	Shield volcano	S0
+126	Ol Kokwe	Africa-E	Holocene	0.62	N	36.075	E	1130	Shield volcano	M0
+127	Nyambeni Hills	Africa-E	Holocene	0.23	N	37.87	E	750	Shield volcano	M0
+128	Menengai	Africa-E	Tephrochronology	0.2	S	36.07	E	2278	Shield volcano	S0
+129	Elmenteita Badlands	Africa-E	Holocene	0.52	S	36.27	E	2126	Pyroclastic cones	M0
+130	Homa Mountain	Africa-E	Holocene	0.38	S	34.5	E	1751	Complex volcano	M0
+131	Eburru Ol Doinyo	Africa-E	Holocene	0.65	S	36.22	E	2856	Complex volcano	S0
+132	Olkaria	Africa-E	Radiocarbon	0.904	S	36.292	E	2434	Pumice cones	S0
+133	Longonot	Africa-E	Anthropology	0.914	S	36.446	E	2776	Stratovolcano	S0
+134	Suswa	Africa-E	Holocene	1.175	S	36.35	E	2356	Shield volcano	S0
+135	Lengai Ol Doinyo	Africa-E	Historical	2.764	S	35.914	E	2962	Stratovolcano	S2
+136	Chyulu Hills	Africa-E	Anthropology	2.68	S	37.88	E	2188	Volcanic field	M0
+137	Kilimanjaro	Africa-E	Holocene	3.07	S	37.35	E	5895	Stratovolcano	S0
+138	Igwisi Hills	Africa-E	Holocene	4.87	S	31.92	E		Tuff cones	S0
+139	Unnamed	Africa-E	Holocene	8.63	S	33.57	E		Pyroclastic cone	M0
+140	SW Usangu Basin	Africa-E	Holocene	8.75	S	33.8	E	2179	Lava domes	S0
+141	Ngozi	Africa-E	Holocene	8.97	S	33.57	E	2622	Caldera	S0
+142	Izumbwe-Mpoli	Africa-E	Holocene	8.93	S	33.4	E	1568	Pyroclastic cones	S0
+143	Rungwe	Africa-E	Holocene	9.13	S	33.67	E	2961	Stratovolcano	S0
+144	Meru	Africa-E	Historical	3.25	S	36.75	E	4565	Stratovolcano	S0
+145	Kieyo	Africa-E	Historical	9.23	S	33.78	E	2175	Stratovolcano	S0
+146	Fort Portal	Africa-C	Radiocarbon	0.7	N	30.25	E	1615	Tuff cones	M0
+147	Kyatwa	Africa-C	Holocene maybe	0.45	N	30.25	E	1430	Tuff cones	S0
+148	Katwe-Kikorongo	Africa-C	Holocene	0.08	S	29.92	E	1067	Tuff cones	S0
+149	Bunyaruguru	Africa-C	Holocene	0.2	S	30.08	E	1554	Maars	S0
+150	Katunga	Africa-C	Holocene	0.471	S	30.191	E	1707	Tuff cone	S0
+151	May-ya-moto	Africa-C	Fumarolic	0.93	S	29.33	E	950	Fumarole field	S0
+152	Nyamuragira	Africa-C	Historical	1.408	S	29.2	E	3058	Shield volcano	M1
+153	Nyiragongo	Africa-C	Historical	1.52	S	29.25	E	3470	Stratovolcano	M1
+154	Karisimbi	Africa-C	Potassium-Argon	1.5	S	29.45	E	4507	Stratovolcano	M0
+155	Visoke	Africa-C	Historical	1.47	S	29.492	E	3711	Stratovolcano	S0
+156	Muhavura	Africa-C	Holocene	1.38	S	29.67	E	4127	Stratovolcano	M0
+157	Bufumbira	Africa-C	Holocene maybe	1.23	S	29.72	E	2440	Cinder cones	M0
+158	Tshibinda	Africa-C	Holocene	2.32	S	28.75	E	1460	Cinder cones	M0
+159	Sao Tome	Africa-W	Holocene maybe	0.2	N	6.58	E	2024	Shield volcano	M0
+160	San Carlos	Africa-W	Holocene	3.35	N	8.52	E	2260	Shield volcano	M0
+161	San Joaquin	Africa-W	Holocene	3.35	N	8.63	E	2009	Shield volcano	M0
+162	Santa Isabel	Africa-W	Historical	3.58	N	8.75	E	3007	Shield volcano	M0
+163	Tombel Graben	Africa-W	Holocene	4.75	N	9.67	E	500	Cinder cones	M0
+164	Cameroon	Africa-W	Historical	4.203	N	9.17	E	4095	Stratovolcano	M1
+165	Manengouba	Africa-W	Holocene maybe	5.03	N	9.83	E	2411	Stratovolcano	M0
+166	Oku Volc Field	Africa-W	Holocene maybe	6.25	N	10.5	E	3011	Stratovolcano	M0
+167	Ngaoundere Plateau	Africa-W	Holocene maybe	7.25	N	13.67	E		Volcanic field	M0
+168	Biu Plateau	Africa-W	Holocene maybe	10.75	N	12	E		Volcanic field	M0
+169	Todra Volc Field	Africa-N	Holocene	17.68	N	8.5	E	1780	Cinder cones	M0
+170	Tin Zaouatene Volc Field	Africa-N	Holocene	19.83	N	2.83	E		Volcanic field	M0
+171	In Ezzane Volc Field	Africa-N	Holocene maybe	23	N	10.83	E		Volcanic field	M0
+172	Tahalra Volc Field	Africa-N	Holocene	22.67	N	5	E	1467	Pyroclastic cones	M0
+173	Atakor Volc Field	Africa-N	Holocene	23.33	N	5.83	E	2918	Scoria cones	M0
+174	Manzaz Volc Field	Africa-N	Holocene	23.92	N	5.83	E	1672	Scoria cones	M0
+175	Haruj	Africa-N	Holocene	27.25	N	17.5	E	1200	Volcanic field	M0
+176	Wau-en-Namus	Africa-N	Holocene maybe	25.05	N	17.55	E	547	Caldera	M0
+177	T maybeh Tarso	Africa-N	Holocene	21.33	N	16.33	E	2000	Volcanic field	M0
+178	Toussidé Tarso	Africa-N	Holocene	21.03	N	16.45	E	3265	Stratovolcano	S0
+179	Koussi Emi	Africa-N	Holocene	19.8	N	18.53	E	3415	Pyroclastic shield	S0
+180	Voon Tarso	Africa-N	Fumarolic	20.92	N	17.28	E	3100	Stratovolcano	S0
+181	Marra Jebel	Africa-N	Radiocarbon	12.95	N	24.27	E	3042	Volcanic field	M0
+182	Kutum Volc Field	Africa-N	Holocene maybe	14.57	N	25.85	E		Scoria cones	M0
+183	Meidob Volc Field	Africa-N	Holocene	15.32	N	26.47	E	2000	Scoria cones	M0
+184	Bayuda Volc Field	Africa-N	Radiocarbon	18.33	N	32.75	E	670	Cinder cones	M0
+185	Umm Arafieb Jebel	Africa-N	Holocene maybe	18.17	N	33.83	E		Shield volcano	M0
+186	Sharat Kovakab	Syria	Holocene	36.53	N	40.85	E	534	Volcanic field	M0
+187	Unnamed	Syria	Historical	36.67	N	37	E		Volcanic field	M0
+188	Golan Heights	Syria	Holocene	33.1	N	35.97	E	1197	Volcanic field	M0
+189	Unnamed	Syria	Holocene	33	N	36.43	E	945	Volcanic field	M0
+190	Es Safa	Syria	Historical	33.25	N	37.07	E	979	Volcanic field	M0
+191	Druze Jabal ad	Syria	Holocene	32.658	N	36.425	E	1803	Volcanic field	M0
+192	Harrah Al	Arabia-W	Holocene	31.08	N	38.42	E	1100	Volcanic field	M0
+193	Rahah Harrat ar	Arabia-W	Anthropology	27.8	N	36.17	E	1950	Volcanic field	M0
+194	Uwayrid Harrat	Arabia-W	Anthropology	27.08	N	37.25	E	1920	Volcanic field	M0
+195	Lunayyir Harrat	Arabia-W	Historical	25.17	N	37.75	E	1370	Volcanic field	M0
+196	Ithnayn Harrat	Arabia-W	Holocene	26.58	N	40.2	E	1625	Volcanic field	M0
+197	Khaybar Harrat	Arabia-W	Historical	25	N	39.92	E	2093	Volcanic field	M0
+198	Kishb Harrat	Arabia-W	Holocene	22.8	N	41.38	E	1475	Volcanic field	M0
+199	Birk Harrat al	Arabia-W	Holocene	18.37	N	41.63	E	381	Volcanic field	M0
+200	Rahat Harrat	Arabia-W	Historical	23.08	N	39.78	E	1744	Volcanic field	M0
+201	Yar Jabal	Arabia-W	Historical	17.05	N	42.83	E	305	Volcanic field	M0
+202	Arhab Harra of	Arabia-S	Historical	15.63	N	44.08	E	3100	Volcanic field	M0
+203	Marha Jabal el-	Arabia-S	Holocene maybe	15.245	N	44.236	E	2506	Tuff cone	M0
+204	Haylan Jabal	Arabia-S	Anthropology	15.43	N	44.78	E	1550	Volcanic field	M0
+205	Dhamar Harras of	Arabia-S	Historical	14.57	N	44.67	E	3500	Volcanic field	M0
+206	Unnamed	Arabia-S	Uncertain	12.25	N	45	E		Submarine volcano	U0
+207	Saw maybed Harra es-	Arabia-S	Historical	13.58	N	46.12	E	1737	Volcanic field	M0
+208	Bal Haf Harra of	Arabia-S	Holocene	14.05	N	48.33	E	233	Volcanic field	M0
+209	Bir Borhut	Arabia-S	Holocene maybe	15.55	N	50.63	E		Volcanic field	M0
+210	Unnamed	Iran	Holocene	39.33	N	45.17	E		Volcanic field	S0
+211	Sahand	Iran	Holocene	37.75	N	46.43	E	3707	Stratovolcano	S0
+212	Sabalan	Iran	Holocene	38.25	N	47.92	E	4811	Stratovolcano	S0
+213	Damavand	Iran	Uranium-series	35.951	N	52.109	E	5670	Stratovolcano	S0
+214	Qal'eh Hasan Ali	Iran	Holocene maybe	29.4	N	57.57	E		Maars	M0
+215	Bazman	Iran	Fumarolic	28.07	N	60	E	3490	Stratovolcano	S0
+216	Unnamed	Iran	Holocene maybe	28.17	N	60.67	E		Volcanic field	M0
+217	Taftan	Iran	Holocene	28.6	N	61.13	E	3940	Stratovolcano	S0
+218	Dacht-i-Navar Group	Afghanistan	Holocene maybe	33.95	N	67.92	E	3800	Lava domes	S0
+219	Vakak Group	Afghanistan	Holocene maybe	34.25	N	67.97	E	3190	Volcanic field	S0
+220	Grille La	Indian O.-W	Holocene	11.47	S	43.33	E	1087	Shield volcano	M0
+221	Ambre-Bobaomby	Madagascar	Holocene	12.6	S	49.15	E	1475	Volcanic field	M0
+222	Nosy-Be	Madagascar	Holocene	13.32	S	48.48	E	214	Cinder cones	S0
+223	Ankaizina Field	Madagascar	Holocene	14.3	S	48.67	E	2878	Cinder cones	M0
+224	Itasy Volc Field	Madagascar	Radiocarbon	19	S	46.77	E	1800	Scoria cones	S0
+225	Ankaratra Field	Madagascar	Holocene	19.4	S	47.2	E	2644	Cinder cones	S0
+226	Karthala	Indian O.-W	Historical	11.75	S	43.38	E	2361	Shield volcano	M1
+227	Fournaise Piton de la	Indian O.-W	Historical	21.231	S	55.713	E	2632	Shield volcano	M1
+228	Boomerang Seamount	Indian O.-S	Historical	37.721	S	77.825	E	-650	Submarine volcano	U0
+229	Amsterdam Island	Indian O.-S	Holocene	37.83	S	77.52	E	881	Stratovolcano	M0
+230	St. Paul	Indian O.-S	Historical	38.72	S	77.53	E	268	Stratovolcano	M0
+231	McDonald Islands	Indian O.-S	Historical	53.03	S	72.6	E	230	Complex volcano	S1
+232	Heard	Indian O.-S	Historical	53.106	S	73.513	E	2745	Stratovolcano	M1
+233	Kerguelen Islands	Indian O.-S	Holocene maybe	49.58	S	69.5	E	1840	Stratovolcanoes	S0
+234	Est Ile de l'	Indian O.-S	Holocene maybe	46.43	S	52.2	E	1090	Stratovolcano	M0
+235	Possession Ile de la	Indian O.-S	Holocene	46.42	S	51.75	E	934	Stratovolcano	M0
+236	Cochons Ile aux	Indian O.-S	Holocene	46.1	S	50.23	E	775	Stratovolcano	M0
+237	Prince Edward Island	Indian O.	Holocene	46.63	S	37.95	E	672	Shield volcano	M0
+238	Marion Island	Indian O.-S	Historical	46.9	S	37.75	E	1230	Shield volcanoes	M1
+239	Unnamed	Indian O.-E	Uncertain	11.75	N	80.75	E		Submarine volcano  maybe	U0
+240	Whangarei	New Zealand	Holocene maybe	35.75	S	174.27	E	397	Cinder cones	M0
+241	Kaikohe-Bay of Islands	New Zealand	Radiocarbon	35.3	S	173.9	E	388	Volcanic field	M0
+242	Mayor Island	New Zealand	Radiocarbon	37.28	S	176.25	E	355	Shield volcano	S0
+243	Auckland Field	New Zealand	Radiocarbon	36.9	S	174.87	E	260	Volcanic field	M0
+244	Taranaki [Egmont]	New Zealand	Historical	39.3	S	174.07	E	2518	Stratovolcano	S0
+245	White Island	New Zealand	Historical	37.52	S	177.18	E	321	Stratovolcanoes	S1
+246	Okataina	New Zealand	Historical	38.12	S	176.5	E	1111	Lava domes	S0
+247	Reporoa	New Zealand	Tephrochronology	38.42	S	176.33	E	592	Caldera	S0
+248	Maroa	New Zealand	Tephrochronology	38.42	S	176.08	E	1156	Calderas	S0
+249	Taupo	New Zealand	Radiocarbon	38.82	S	176	E	760	Caldera	S0
+250	Tongariro	New Zealand	Historical	39.13	S	175.642	E	1978	Stratovolcanoes	S1
+251	Clark	New Zealand	Fumarolic	36.446	S	177.839	E	-860	Submarine volcano	U0
+252	Tangaroa	New Zealand	Fumarolic	36.321	S	178.028	E	600	Submarine volcano	U0
+253	Ruapehu	New Zealand	Historical	39.28	S	175.57	E	2797	Stratovolcano	S1
+254	Rumble V	New Zealand	Fumarolic	36.142	S	178.196	E	400	Submarine volcano	U0
+255	Rumble IV	New Zealand	Fumarolic	36.13	S	178.05	E	500	Submarine volcano	U0
+256	Rumble III	New Zealand	Hydrophonic	35.745	S	178.478	E	-220	Submarine volcano	U0
+257	Rumble II West	New Zealand	Fumarolic	35.353	S	178.527	E	1200	Submarine volcano	U0
+258	Healy	New Zealand	Radiocarbon	35.004	S	178.973	E	980	Submarine volcano	U0
+259	Brothers	New Zealand	Fumarolic	34.875	S	179.075	E	-1350	Submarine volcano	U0
+260	Volcano W	Kermadec Is	Fumarolic	31.85	S	179.18	W	-900	Submarine volcanoes	U0
+261	Curtis Island	Kermadec Is	Uncertain	30.542	S	178.561	W	137	Submarine volcano	S0
+262	Macauley Island	Kermadec Is	Radiocarbon	30.2	S	178.47	W	238	Caldera	M0
+263	Giggenbach	Kermadec Is	Fumarolic	30.036	S	178.712	W	-65	Submarine volcano	U0
+264	Raoul Island	Kermadec Is	Historical	29.27	S	177.92	W	516	Stratovolcano	S0
+265	Monowai Seamount	Kermadec Is	Historical	25.887	S	177.188	W	-132	Submarine volcano	U0
+266	Unnamed	Tonga-SW Pacific	Fumarolic	24.8	S	177.02	W	-385	Submarine volcano	U0
+267	Unnamed	Tonga-SW Pacific	Fumarolic	21.15	S	175.75	W	-65	Submarine volcano	U0
+268	Unnamed	Tonga-SW Pacific	Historical	21.38	S	175.65	W	-500	Submarine volcano	U0
+269	Unnamed	Tonga-SW Pacific	Historical	20.85	S	175.53	W	-13	Submarine volcano	S0
+270	Hunga Tonga-Hunga Ha'apai	Tonga-SW Pacific	Historical	20.57	S	175.38	W	149	Submarine volcano	S0
+271	Falcon Island	Tonga-SW Pacific	Historical	20.32	S	175.42	W	-17	Submarine volcano	S0
+272	Kao	Tonga-SW Pacific	Holocene	19.67	S	175.03	W	1030	Stratovolcano	S0
+273	Tofua	Tonga-SW Pacific	Historical	19.75	S	175.07	W	515	Caldera	S0
+274	Metis Shoal	Tonga-SW Pacific	Historical	19.18	S	174.87	W	43	Submarine volcano	S0
+275	Home Reef	Tonga-SW Pacific	Historical	18.992	S	174.775	W	-2	Submarine volcano	S0
+276	Unnamed	Tonga-SW Pacific	Historical	18.325	S	174.365	W	-40	Submarine volcano	S0
+277	Late	Tonga-SW Pacific	Historical	18.806	S	174.65	W	540	Stratovolcano	S0
+278	Tafahi	Tonga-SW Pacific	Holocene maybe	15.85	S	173.72	W	560	Stratovolcano	S0
+279	Curacoa	Tonga-SW Pacific	Historical	15.62	S	173.67	W	-33	Submarine volcano	S0
+280	Fonualei	Tonga-SW Pacific	Historical	18.02	S	174.325	W	180	Stratovolcano	S0
+281	Niuafo'ou	Tonga-SW Pacific	Historical	15.6	S	175.63	W	260	Shield volcano	M0
+282	Vailulu'u	Samoa-SW Pacific	Historical	14.215	S	169.058	W	-592	Submarine volcano	U0
+283	Ta'u	Samoa-SW Pacific	Holocene	14.23	S	169.454	W	931	Shield volcano	M0
+284	Ofu-Olosega	Samoa-SW Pacific	Historical	14.175	S	169.618	W	639	Shield volcanoes	M0
+285	Tutuila	Samoa-SW Pacific	Holocene	14.295	S	170.7	W	653	Tuff cones	M0
+286	Upolu	Samoa-SW Pacific	Holocene	13.935	S	171.72	W	1100	Shield volcano	M0
+287	Savai'i	Samoa-SW Pacific	Historical	13.612	S	172.525	W	1858	Shield volcano	M0
+288	Wallis Islands	SW Pacific	Holocene	13.3	S	176.17	W	143	Shield volcanoes	M0
+289	Taveuni	Fiji Is-SW Pacific	Radiocarbon	16.82	S	179.97	W	1241	Shield volcano	M0
+290	Koro	Fiji Is-SW Pacific	Holocene maybe	17.32	S	179.4	E	522	Cinder cones	M0
+291	Nabukelevu	Fiji Is-SW Pacific	Radiocarbon	19.12	S	177.98	E	805	Lava domes	S0
+292	St. Andrew Strait	Admiralty Is-SW Pacific	Historical	2.38	S	147.35	E	270	Complex volcano	S0
+293	Baluan	Admiralty Is-SW Pacific	Holocene maybe	2.57	S	147.28	E	254	Stratovolcano	M0
+294	Unnamed	Admiralty Is-SW Pacific	Hydrophonic	3.03	S	147.78	E	-1300	Submarine volcano	U0
+295	Blup Blup	New Guinea-NE of	Holocene	3.507	S	144.605	E	402	Stratovolcano	S0
+296	Kadovar	New Guinea-NE of	Holocene	3.63	S	144.631	E	365	Stratovolcano	S0
+297	Boisa	New Guinea-NE of	Holocene maybe	3.994	S	144.963	E	240	Stratovolcano	M0
+298	Bam	New Guinea-NE of	Historical	3.613	S	144.818	E	685	Stratovolcano	S2
+299	Manam	New Guinea-NE of	Historical	4.08	S	145.037	E	1807	Stratovolcano	M1
+300	Karkar	New Guinea-NE of	Historical	4.649	S	145.964	E	1839	Stratovolcano	S1
+301	Yomba	New Guinea-NE of	Uncertain	4.9	S	146.75	E		Submarine volcano  maybe	U0
+302	Unnamed	New Guinea-NE of	Uncertain	4.311	S	146.256	E	-2000	Submarine volcano  maybe	U0
+303	Long Island	New Guinea-NE of	Historical	5.358	S	147.12	E	1280	Complex volcano	S1
+304	Umboi	New Guinea-NE of	Holocene	5.589	S	147.875	E	1548	Complex volcano	M0
+305	Ritter Island	New Guinea-NE of	Historical	5.52	S	148.121	E	140	Stratovolcano	M1
+306	Sakar	New Guinea-NE of	Holocene maybe	5.414	S	148.094	E	992	Stratovolcano	M0
+307	Unnamed	New Britain-SW Pac	Uncertain	5.2	S	148.57	E		Submarine volcano  maybe	U0
+308	Langila	New Britain-SW Pac	Historical	5.525	S	148.42	E	1330	Complex volcano	M1
+309	Mundua	New Britain-SW Pac	Holocene	4.63	S	149.35	E	179	Complex volcano	M0
+310	Garove	New Britain-SW Pac	Holocene	4.692	S	149.5	E	368	Stratovolcano	S0
+311	Dakataua	New Britain-SW Pac	Anthropology	5.056	S	150.108	E	400	Caldera	S0
+312	Bola	New Britain-SW Pac	Holocene	5.15	S	150.03	E	1155	Stratovolcano	S0
+313	Garua Harbour	New Britain-SW Pac	Holocene maybe	5.3	S	150.07	E	565	Volcanic field	S0
+314	Lolo	New Britain-SW Pac	Holocene maybe	5.468	S	150.507	E	805	Stratovolcano	S0
+315	Garbuna Group	New Britain-SW Pac	Historical	5.45	S	150.03	E	564	Stratovolcanoes	S0
+316	Pago	New Britain-SW Pac	Historical	5.58	S	150.52	E	742	Caldera	S1
+317	Sulu Range	New Britain-SW Pac	Fumarolic	5.5	S	150.942	E	610	Stratovolcanoes	S0
+318	Hargy	New Britain-SW Pac	Radiocarbon	5.33	S	151.1	E	1148	Stratovolcano	S0
+319	Bamus	New Britain-SW Pac	Anthropology	5.2	S	151.23	E	2248	Stratovolcano	S0
+320	Ulawun	New Britain-SW Pac	Historical	5.05	S	151.33	E	2334	Stratovolcano	S2
+321	Unnamed	New Britain-SW Pac	Uncertain	4.75	S	150.85	E		Submarine volcano  maybe	U0
+322	Lolobau	New Britain-SW Pac	Historical	4.92	S	151.158	E	858	Caldera	M3
+323	Rabaul	New Britain-SW Pac	Historical	4.271	S	152.203	E	688	Pyroclastic shield	S1
+324	Tavui	New Britain-SW Pac	Radiocarbon	4.12	S	152.2	E	200	Caldera	S0
+325	Doma Peaks	New Guinea	Holocene maybe	5.9	S	143.15	E	3568	Stratovolcano	S0
+326	Crater Mountain	New Guinea	Holocene maybe	6.58	S	145.08	E	3233	Stratovolcano	M0
+327	Yelia	New Guinea	Holocene maybe	7.05	S	145.858	E	3384	Stratovolcano	S0
+328	Koranga	New Guinea	Holocene	7.33	S	146.708	E	1500	Maar	S0
+329	Madilogo	New Guinea	Holocene	9.2	S	147.57	E	850	Pyroclastic cone	M0
+330	Hydrographers Range	New Guinea	Holocene	9	S	148.37	E	1915	Stratovolcano	S0
+331	Lamington	New Guinea	Historical	8.95	S	148.15	E	1680	Stratovolcano	S2
+332	Managlase Plateau	New Guinea	Anthropology	9.08	S	148.33	E	1342	Volcanic field	M0
+333	Musa River	New Guinea	Hot Springs	9.308	S	148.13	E	808	Hydrothermal field	S0
+334	Sessagara	New Guinea	Holocene	9.48	S	149.13	E	370	Pyroclastic cones	S0
+335	Victory	New Guinea	Historical	9.2	S	149.07	E	1925	Stratovolcano	S1
+336	Goodenough	D'Entrecasteaux Is	Holocene	9.48	S	150.35	E	220	Volcanic field	S0
+337	Waiowa	New Guinea	Historical	9.57	S	149.075	E	640	Pyroclastic cone	S2
+338	Iamalele	D'Entrecasteaux Is	Holocene	9.52	S	150.53	E	200	Lava domes	S0
+339	Dawson Strait Group	D'Entrecasteaux Is	Hydration Rind	9.62	S	150.88	E	500	Volcanic field	S0
+340	Lihir	New Ireland-SW Pacific	Holocene	3.125	S	152.642	E	700	Volcanic complex	M0
+341	Ambitle	New Ireland-SW Pacific	Radiocarbon	4.08	S	153.65	E	450	Stratovolcano	S0
+342	Tore	Bougainville-SW Pacific	Holocene	5.83	S	154.93	E	2200	Lava cone	S0
+343	Billy Mitchell	Bougainville-SW Pacific	Radiocarbon	6.092	S	155.225	E	1544	Pyroclastic shield	S0
+344	Balbi	Bougainville-SW Pacific	Holocene	5.92	S	154.98	E	2715	Stratovolcano	S0
+345	Takuan Group	Bougainville-SW Pacific	Holocene	6.442	S	155.608	E	2210	Volcanic complex	S0
+346	Bagana	Bougainville-SW Pacific	Historical	6.14	S	155.195	E	1750	Lava cone	S1
+347	Loloru	Bougainville-SW Pacific	Radiocarbon	6.52	S	155.62	E	1887	Pyroclastic shield	S0
+348	Kana Keoki	Solomon Is-SW Pacific	Holocene	8.75	S	157.03	E	-700	Submarine volcano	U0
+349	Coleman Seamount	Solomon Is-SW Pacific	Holocene	8.83	S	157.17	E		Submarine volcano	U0
+350	Simbo	Solomon Is-SW Pacific	Anthropology	8.292	S	156.52	E	335	Stratovolcanoes	S0
+351	Unnamed	Solomon Is-SW Pacific	Holocene	8.92	S	158.03	E	-240	Submarine volcanoes	U0
+352	Gallego	Solomon Is-SW Pacific	Holocene maybe	9.35	S	159.73	E	1000	Volcanic field	S0
+353	Kavachi	Solomon Is-SW Pacific	Historical	9.02	S	157.95	E	-20	Submarine volcano	M1
+354	Savo	Solomon Is-SW Pacific	Historical	9.13	S	159.82	E	485	Stratovolcano	S2
+355	Tinakula	Santa Cruz Is-SW Pacific	Historical	10.38	S	165.8	E	851	Stratovolcano	S1
+356	Motlav	Vanuatu-SW Pacific	Holocene	13.67	S	167.67	E	411	Stratovolcano	M0
+357	Suretamatai	Vanuatu-SW Pacific	Historical	13.8	S	167.47	E	921	Complex volcano	S0
+358	Mere Lava	Vanuatu-SW Pacific	Holocene	14.45	S	168.05	E	1028	Stratovolcano	M0
+359	Gaua	Vanuatu-SW Pacific	Historical	14.27	S	167.5	E	797	Stratovolcano	S1
+360	Aoba	Vanuatu-SW Pacific	Historical	15.4	S	167.83	E	1496	Shield volcano	M0
+361	Ambrym	Vanuatu-SW Pacific	Historical	16.25	S	168.12	E	1334	Pyroclastic shield	M1
+362	Lopevi	Vanuatu-SW Pacific	Historical	16.507	S	168.346	E	1413	Stratovolcano	M2
+363	Epi	Vanuatu-SW Pacific	Historical	16.68	S	168.37	E	833	Stratovolcanoes	M0
+364	Kuwae	Vanuatu-SW Pacific	Historical	16.829	S	168.536	E	-2	Caldera	M0
+365	Unnamed	Vanuatu-SW Pacific	Holocene maybe	16.992	S	168.592	E	216	Stratovolcanoes	M0
+366	North Vate	Vanuatu-SW Pacific	Holocene	17.47	S	168.353	E	594	Stratovolcanoes	M0
+367	Traitor's Head	Vanuatu-SW Pacific	Historical	18.75	S	169.23	E	837	Stratovolcano	M0
+368	Yasur	Vanuatu-SW Pacific	Historical	19.53	S	169.442	E	361	Stratovolcano	M1
+369	Aneityum	Vanuatu-SW Pacific	Holocene maybe	20.2	S	169.78	E	852	Stratovolcanoes	M0
+370	Eastern Gemini Seamount	SW Pacific	Historical	20.98	S	170.28	E	-80	Submarine volcano	U0
+371	Matthew Island	SW Pacific	Historical	22.33	S	171.32	E	177	Stratovolcano	S0
+372	Hunter Island	SW Pacific	Historical	22.4	S	172.05	E	297	Stratovolcano	S0
+373	Unnamed	SW Pacific	Hydrophonic	25.78	S	168.63	E	-2400	Submarine volcano	U0
+374	Newer Volcanics Prov	Australia	Radiocarbon	37.77	S	142.5	E	1011	Shield volcanoes	M0
+375	Narcondum	Andaman Is-Indian O	Holocene	13.43	N	94.28	E	710	Stratovolcano	S0
+376	Barren Island	Andaman Is-Indian O	Historical	12.278	N	93.858	E	354	Stratovolcano	S2
+377	Seulawah Agam	Sumatra	Historical	5.448	N	95.658	E	1810	Stratovolcano	S0
+378	Peuet Sague	Sumatra	Historical	4.914	N	96.329	E	2801	Complex volcano	S1
+379	Telong Bur ni	Sumatra	Historical	4.769	N	96.821	E	2617	Stratovolcano	S1
+380	Sibayak	Sumatra	Historical	3.23	N	98.52	E	2212	Stratovolcanoes	S0
+381	Sinabung	Sumatra	Holocene	3.17	N	98.392	E	2460	Stratovolcano	S0
+382	Toba	Sumatra	Holocene	2.58	N	98.83	E	2157	Caldera	S0
+383	Imun	Sumatra	Holocene maybe	2.158	N	98.93	E	1505	Unknown	S0
+384	Lubukraya	Sumatra	Holocene maybe	1.478	N	99.209	E	1862	Stratovolcano	S0
+385	Sibualbuali	Sumatra	Holocene maybe	1.556	N	99.255	E	1819	Stratovolcano	S0
+386	Sorikmarapi	Sumatra	Historical	0.686	N	99.539	E	2145	Stratovolcano	S1
+387	Sarik-Gajah	Sumatra	Holocene maybe	0.08	N	100.2	E		Pyroclastic cones	S0
+388	Talakmau	Sumatra	Holocene	0.079	N	99.98	E	2919	Complex volcano	S0
+389	Marapi	Sumatra	Historical	0.381	S	100.473	E	2891	Complex volcano	S1
+390	Tandikat	Sumatra	Historical	0.433	S	100.317	E	2438	Stratovolcanoes	S1
+391	Talang	Sumatra	Historical	0.978	S	100.679	E	2597	Stratovolcano	S1
+392	Kunyit	Sumatra	Fumarolic	2.274	S	101.483	E	2151	Stratovolcano	S0
+393	Hutapanjang	Sumatra	Holocene	2.33	S	101.6	E	2021	Stratovolcano	S0
+394	Kerinci	Sumatra	Historical	1.697	S	101.264	E	3800	Stratovolcano	S1
+395	Sumbing	Sumatra	Historical	2.414	S	101.728	E	2507	Stratovolcano	S1
+396	Pendan	Sumatra	Holocene	2.82	S	102.02	E		Unknown	S0
+397	Belirang-Beriti	Sumatra	Fumarolic	2.82	S	102.18	E	1958	Compound volcano	M0
+398	Daun Bukit	Sumatra	Fumarolic	3.38	S	102.37	E	2467	Stratovolcanoes	M0
+399	Kaba	Sumatra	Historical	3.52	S	102.62	E	1952	Stratovolcano	S1
+400	Patah	Sumatra	Fumarolic	4.27	S	103.3	E	2817	Unknown	S0
+401	Dempo	Sumatra	Historical	4.03	S	103.13	E	3173	Stratovolcanoes	S1
+402	Lumut Balai Bukit	Sumatra	Fumarolic	4.22	S	103.62	E	2055	Stratovolcano  maybe	S0
+403	Ranau	Sumatra	Holocene maybe	4.83	S	103.92	E	1881	Caldera	S0
+404	Besar	Sumatra	Historical	4.43	S	103.67	E	1899	Stratovolcano  maybe	S0
+405	Sekincau Belirang	Sumatra	Fumarolic	5.12	S	104.32	E	1719	Calderas	S0
+406	Suoh	Sumatra	Historical	5.25	S	104.27	E	1000	Calderas	S0
+407	Hulubelu	Sumatra	Fumarolic	5.35	S	104.6	E	1040	Caldera	S0
+408	Rajabasa	Sumatra	Fumarolic	5.78	S	105.625	E	1281	Stratovolcano	S0
+409	Krakatau	Indonesia	Historical	6.102	S	105.423	E	813	Caldera	S1
+410	Pulosari	Java	Holocene	6.342	S	105.975	E	1346	Stratovolcano	S0
+411	Karang	Java	Holocene maybe	6.27	S	106.042	E	1778	Stratovolcano	S0
+412	Perbakti-Gagak	Java	Historical	6.75	S	106.7	E	1699	Stratovolcanoes	S0
+413	Salak	Java	Historical	6.72	S	106.73	E	2211	Stratovolcano	S1
+414	Gede	Java	Historical	6.78	S	106.98	E	2958	Stratovolcano	S2
+415	Patuha	Java	Holocene	7.16	S	107.4	E	2434	Stratovolcano	S0
+416	Malabar	Java	Holocene maybe	7.13	S	107.65	E	2343	Stratovolcano	S0
+417	Wayang-Windu	Java	Fumarolic	7.208	S	107.63	E	2182	Lava dome	S0
+418	Tangkubanparahu	Java	Historical	6.77	S	107.6	E	2084	Stratovolcano	S1
+419	Papandayan	Java	Historical	7.32	S	107.73	E	2665	Stratovolcanoes	S1
+420	Kendang	Java	Holocene	7.23	S	107.72	E	2608	Stratovolcano	S0
+421	Tampomas	Java	Holocene	6.77	S	107.95	E	1684	Stratovolcano	S0
+422	Guntur	Java	Historical	7.143	S	107.84	E	2249	Complex volcano	S1
+423	Galunggung	Java	Historical	7.25	S	108.058	E	2168	Stratovolcano	M2
+424	Talagabodas	Java	Fumarolic	7.208	S	108.07	E	2201	Stratovolcano	M0
+425	Karaha Kawah	Java	Fumarolic	7.12	S	108.08	E	1155	Fumarole field	S0
+426	Cereme	Java	Historical	6.892	S	108.4	E	3078	Stratovolcano	S1
+427	Slamet	Java	Historical	7.242	S	109.208	E	3428	Stratovolcano	M1
+428	Dieng Volc Complex	Java	Historical	7.2	S	109.92	E	2565	Complex volcano	S1
+429	Sundoro	Java	Historical	7.3	S	109.992	E	3136	Stratovolcano	S1
+430	Sumbing	Java	Historical	7.384	S	110.07	E	3371	Stratovolcano	S0
+431	Telomoyo	Java	Holocene	7.37	S	110.4	E	1894	Stratovolcano	S0
+432	Ungaran	Java	Holocene	7.18	S	110.33	E	2050	Stratovolcano	S0
+433	Merbabu	Java	Historical	7.45	S	110.43	E	3145	Stratovolcano	M1
+434	Muria	Java	Holocene	6.62	S	110.88	E	1625	Stratovolcano	M0
+435	Merapi	Java	Historical	7.542	S	110.442	E	2968	Stratovolcano	S9
+436	Lawu	Java	Historical	7.625	S	111.192	E	3265	Stratovolcano	S1
+437	Wilis	Java	Holocene	7.808	S	111.758	E	2563	Stratovolcano	S0
+438	Kawi-Butak	Java	Holocene	7.92	S	112.45	E	2651	Stratovolcanoes	S0
+439	Kelut	Java	Historical	7.93	S	112.308	E	1731	Stratovolcano	S2
+440	Penanggungan	Java	Holocene	7.62	S	112.63	E	1653	Stratovolcano	S0
+441	Malang Plain	Java	Holocene	8.02	S	112.68	E	680	Maars	S0
+442	Arjuno-Welirang	Java	Historical	7.725	S	112.58	E	3339	Stratovolcano	S1
+443	Semeru	Java	Historical	8.108	S	112.92	E	3676	Stratovolcano	S1
+444	Tengger Caldera	Java	Historical	7.942	S	112.95	E	2329	Stratovolcanoes	S1
+445	Lurus	Java	Holocene maybe	7.73	S	113.58	E	539	Complex volcano	S0
+446	Lamongan	Java	Historical	7.979	S	113.342	E	1651	Stratovolcano	M1
+447	Iyang-Argapura	Java	Holocene	7.97	S	113.57	E	3088	Complex volcano	S0
+448	Raung	Java	Historical	8.125	S	114.042	E	3332	Stratovolcano	S1
+449	Baluran	Java	Holocene maybe	7.85	S	114.37	E	1247	Stratovolcano	S0
+450	Ijen	Java	Historical	8.058	S	114.242	E	2799	Stratovolcanoes	S1
+451	Bratan	Lesser Sunda Is	Holocene	8.28	S	115.13	E	2276	Caldera	S0
+452	Batur	Lesser Sunda Is	Historical	8.242	S	115.375	E	1717	Caldera	S1
+453	Agung	Lesser Sunda Is	Historical	8.342	S	115.508	E	3142	Stratovolcano	S0
+454	Rinjani	Lesser Sunda Is	Historical	8.42	S	116.47	E	3726	Stratovolcano	S1
+455	Tambora	Lesser Sunda Is	Historical	8.25	S	118	E	2850	Stratovolcano	S0
+456	Sangeang Api	Lesser Sunda Is	Historical	8.2	S	119.07	E	1949	Complex volcano	M2
+457	Sano Wai	Lesser Sunda Is	Holocene	8.72	S	120.02	E	903	Caldera	S0
+458	Ranakah	Lesser Sunda Is	Historical	8.62	S	120.52	E	2350	Lava domes	S0
+459	Poco Leok	Lesser Sunda Is	Fumarolic	8.68	S	120.48	E	1675	Stratovolcano	S0
+460	Inierie	Lesser Sunda Is	Radiocarbon	8.875	S	120.95	E	2245	Stratovolcano	S0
+461	Inielika	Lesser Sunda Is	Historical	8.73	S	120.98	E	1559	Complex volcano	S1
+462	Ebulobo	Lesser Sunda Is	Historical	8.82	S	121.18	E	2124	Stratovolcano	S1
+463	Iya	Lesser Sunda Is	Historical	8.897	S	121.645	E	637	Stratovolcano	M1
+464	Sukaria Caldera	Lesser Sunda Is	Fumarolic	8.792	S	121.77	E	1500	Caldera	S0
+465	Ndete Napu	Lesser Sunda Is	Fumarolic	8.72	S	121.78	E	750	Fumarole field	S0
+466	Kelimutu	Lesser Sunda Is	Historical	8.77	S	121.82	E	1639	Complex volcano	S1
+467	Paluweh	Lesser Sunda Is	Historical	8.32	S	121.708	E	875	Stratovolcano	S2
+468	Egon	Lesser Sunda Is	Historical	8.67	S	122.45	E	1703	Stratovolcano	S1
+469	Ilimuda	Lesser Sunda Is	Fumarolic	8.478	S	122.671	E	1100	Stratovolcano	S0
+470	Lewotobi	Lesser Sunda Is	Historical	8.542	S	122.775	E	1703	Stratovolcanoes	S1
+471	Leroboleng	Lesser Sunda Is	Historical	8.358	S	122.842	E	1117	Complex volcano	S1
+472	Iliboleng	Lesser Sunda Is	Historical	8.342	S	123.258	E	1659	Stratovolcano	M1
+473	Lewotolo	Lesser Sunda Is	Historical	8.272	S	123.505	E	1423	Stratovolcano	S1
+474	Ililabalekan	Lesser Sunda Is	Fumarolic	8.55	S	123.38	E	1018	Stratovolcano	M0
+475	Iliwerung	Lesser Sunda Is	Historical	8.53	S	123.57	E	1018	Complex volcano	M1
+476	Tara Batu	Lesser Sunda Is	Historical	7.792	S	123.579	E	748	Stratovolcano	M1
+477	Sirung	Lesser Sunda Is	Historical	8.508	S	124.13	E	862	Complex volcano	S1
+478	Yersey	Lesser Sunda Is	Uncertain	7.53	S	123.95	E	-3800	Submarine volcano  maybe	U0
+479	Emperor of China	Banda Sea	Uncertain	6.62	S	124.22	E	-2850	Submarine volcano  maybe	U0
+480	Nieuwerkerk	Banda Sea	Uncertain	6.6	S	124.675	E	-2285	Submarine volcano  maybe	U0
+481	Gunungapi Wetar	Banda Sea	Historical	6.642	S	126.65	E	282	Stratovolcano	S2
+482	Wurlali	Banda Sea	Historical	7.125	S	128.675	E	868	Stratovolcano	S1
+483	Teon	Banda Sea	Historical	6.92	S	129.125	E	655	Stratovolcano	S2
+484	Nila	Banda Sea	Historical	6.73	S	129.5	E	781	Stratovolcano	S1
+485	Serua	Banda Sea	Historical	6.3	S	130	E	641	Stratovolcano	S1
+486	Manuk	Banda Sea	Fumarolic	5.53	S	130.292	E	282	Stratovolcano	S0
+487	Banda Api	Banda Sea	Historical	4.525	S	129.871	E	640	Caldera	S1
+488	Colo [Una Una]	Sulawesi-Indonesia	Historical	0.17	S	121.608	E	507	Stratovolcano	S2
+489	Ambang	Sulawesi-Indonesia	Historical	0.75	N	124.42	E	1795	Complex volcano	S0
+490	Soputan	Sulawesi-Indonesia	Historical	1.108	N	124.73	E	1784	Stratovolcano	S1
+491	Sempu	Sulawesi-Indonesia	Fumarolic	1.13	N	124.758	E	1549	Caldera	S0
+492	Tondano Caldera	Sulawesi-Indonesia	Fumarolic	1.23	N	124.83	E	1202	Caldera	S0
+493	Lokon-Empung	Sulawesi-Indonesia	Historical	1.358	N	124.792	E	1580	Stratovolcano	S1
+494	Mahawu	Sulawesi-Indonesia	Historical	1.358	N	124.858	E	1324	Stratovolcano	S1
+495	Klabat	Sulawesi-Indonesia	Fumarolic	1.47	N	125.03	E	1995	Stratovolcano	S0
+496	Tongkoko	Sulawesi-Indonesia	Historical	1.52	N	125.2	E	1149	Stratovolcano	S1
+497	Ruang	Sangihe Is-Indonesia	Historical	2.3	N	125.37	E	725	Stratovolcano	S1
+498	Karangetang [Api Siau]	Sangihe Is-Indonesia	Historical	2.78	N	125.4	E	1784	Stratovolcano	S1
+499	Banua Wuhu	Sangihe Is-Indonesia	Historical	3.138	N	125.491	E	-5	Submarine volcano	S1
+500	Awu	Sangihe Is-Indonesia	Historical	3.67	N	125.5	E	1320	Stratovolcano	S1
+501	Unnamed	Sangihe Is-Indonesia	Uncertain	3.97	N	124.17	E	-5000	Submarine volcano  maybe	U0
+502	Tarakan	Halmahera-Indonesia	Holocene	1.83	N	127.83	E	318	Pyroclastic cones	M0
+503	Dukono	Halmahera-Indonesia	Historical	1.68	N	127.88	E	1335	Complex volcano	S1
+504	Tobaru	Halmahera-Indonesia	Holocene	1.63	N	127.67	E	1035	Unknown	S0
+505	Ibu	Halmahera-Indonesia	Historical	1.488	N	127.63	E	1325	Stratovolcano	S1
+506	Gamkonora	Halmahera-Indonesia	Historical	1.38	N	127.53	E	1635	Stratovolcano	S1
+507	Jailolo	Halmahera-Indonesia	Holocene	1.08	N	127.42	E	1130	Stratovolcano	S0
+508	Hiri	Halmahera-Indonesia	Holocene	0.9	N	127.32	E	630	Stratovolcano	M0
+509	Todoko-Ranu	Halmahera-Indonesia	Holocene	1.25	N	127.47	E	979	Calderas	S0
+510	Tidore	Halmahera-Indonesia	Holocene	0.658	N	127.4	E	1730	Stratovolcano	S0
+511	Mare	Halmahera-Indonesia	Holocene	0.57	N	127.4	E	308	Stratovolcano	S0
+512	Moti	Halmahera-Indonesia	Holocene	0.45	N	127.4	E	950	Stratovolcano	S0
+513	Gamalama	Halmahera-Indonesia	Historical	0.8	N	127.33	E	1715	Stratovolcanoes	S1
+514	Tigalalu	Halmahera-Indonesia	Holocene	0.07	N	127.42	E	422	Stratovolcano	S0
+515	Amasing	Halmahera-Indonesia	Holocene	0.53	S	127.48	E	1030	Stratovolcanoes	S0
+516	Bibinoi	Halmahera-Indonesia	Holocene	0.77	S	127.72	E	900	Stratovolcanoes	S0
+517	Makian	Halmahera-Indonesia	Historical	0.32	N	127.4	E	1357	Stratovolcano	S2
+518	Bombalai	Borneo	Holocene maybe	4.4	N	117.88	E	531	Pyroclastic cone	M0
+519	Jolo	Sulu Is-Philippines	Historical	6.013	N	121.057	E	811	Pyroclastic cones	M0
+520	Parker	Mindanao-Philippines	Historical	6.113	N	124.892	E	1824	Stratovolcano	S0
+521	Balut	Mindanao-Philippines	Fumarolic	5.4	N	125.375	E	862	Stratovolcano	S0
+522	Matutum	Mindanao-Philippines	Radiocarbon	6.37	N	125.07	E	2286	Stratovolcano	S0
+523	Leonard Range	Mindanao-Philippines	Radiocarbon	7.382	N	126.047	E	1080	Stratovolcano	S0
+524	Apo	Mindanao-Philippines	Fumarolic	6.989	N	125.269	E	2938	Stratovolcano	S0
+525	Makaturing	Mindanao-Philippines	Historical	7.647	N	124.32	E	1940	Stratovolcano	S0
+526	Latukan	Mindanao-Philippines	Holocene maybe	7.65	N	124.45	E	2338	Stratovolcano	S0
+527	Kalatungan	Mindanao-Philippines	Holocene maybe	7.95	N	124.8	E	2824	Stratovolcano	S0
+528	Ragang	Mindanao-Philippines	Historical	7.7	N	124.5	E	2815	Stratovolcano	S1
+529	Malindang	Mindanao-Philippines	Holocene	8.22	N	123.63	E	2404	Stratovolcano	S0
+530	Balatukan	Mindanao-Philippines	Uncertain	8.77	N	124.98	E	2450	Compound volcano	M0
+531	Musuan	Mindanao-Philippines	Historical	7.877	N	125.068	E	646	Lava dome	S0
+532	Camiguin	Mindanao-Philippines	Historical	9.203	N	124.673	E	1552	Stratovolcanoes	S0
+533	Paco	Mindanao-Philippines	Anthropology	9.593	N	125.52	E	524	Stratovolcano	S0
+534	Cuernos de Negros	Philippines-C	Fumarolic	9.25	N	123.17	E	1862	Complex volcano	S0
+535	Kanlaon	Philippines-C	Historical	10.412	N	123.132	E	2435	Stratovolcano	S1
+536	Mandalagan	Philippines-C	Fumarolic	10.65	N	123.25	E	1885	Complex volcano	S0
+537	Silay	Philippines-C	Fumarolic	10.77	N	123.23	E	1510	Stratovolcano	S0
+538	Cabalían	Philippines-C	Radiocarbon	10.287	N	125.221	E	945	Stratovolcano	S0
+539	Mahagnao	Philippines-C	Fumarolic	10.896	N	125.87	E	860	Stratovolcano	S0
+540	Biliran	Philippines-C	Historical	11.523	N	124.535	E	1301	Compound volcano	S0
+541	Bulusan	Luzon-Philippines	Historical	12.77	N	124.05	E	1565	Stratovolcanoes	S1
+542	Pocdol Mountains	Luzon-Philippines	Fumarolic	13.05	N	123.958	E	1102	Compound volcano	S0
+543	Masaraga	Luzon-Philippines	Holocene	13.32	N	123.6	E	1328	Stratovolcano	S0
+544	Mayon	Luzon-Philippines	Historical	13.257	N	123.685	E	2462	Stratovolcano	S2
+545	Iriga	Luzon-Philippines	Holocene	13.457	N	123.457	E	1196	Stratovolcano	S0
+546	Isarog	Luzon-Philippines	Fumarolic	13.658	N	123.38	E	1966	Stratovolcano	S0
+547	Malindig	Luzon-Philippines	Hot Springs	13.24	N	122.018	E	1157	Stratovolcano	S0
+548	Banahaw	Luzon-Philippines	Holocene	14.07	N	121.48	E	2158	Complex volcano	S0
+549	San Pablo Volc Field	Luzon-Philippines	Anthropology	14.12	N	121.3	E	1090	Stratovolcano	S0
+550	Taal	Luzon-Philippines	Historical	14.002	N	120.993	E	311	Caldera	S2
+551	Mariveles	Luzon-Philippines	Radiocarbon	14.52	N	120.47	E	1388	Stratovolcano	S0
+552	Natib	Luzon-Philippines	Holocene maybe	14.72	N	120.4	E	1253	Stratovolcano	S0
+553	Pinatubo	Luzon-Philippines	Historical	15.13	N	120.35	E	1486	Stratovolcano	S3
+554	Arayat	Luzon-Philippines	Holocene maybe	15.2	N	120.742	E	1026	Stratovolcano	S0
+555	Amorong	Luzon-Philippines	Fumarolic	15.828	N	120.805	E	376	Lava domes	S0
+556	Santo Tomas	Luzon-Philippines	Uncertain	16.33	N	120.55	E	2260	Stratovolcano	S0
+557	Patoc	Luzon-Philippines	Fumarolic	17.147	N	120.98	E	1865	Stratovolcano	S0
+558	Ambalatungan Group	Luzon-Philippines	Fumarolic	17.32	N	121.1	E	2329	Compound volcano	S0
+559	Laguna Caldera	Luzon-Philippines	Fumarolic	14.42	N	121.27	E	743	Caldera	S0
+560	Cagua	Luzon-Philippines	Historical	18.222	N	122.123	E	1133	Stratovolcano	S0
+561	Camiguin de Babuyanes	Luzon-N of	Historical	18.83	N	121.86	E	712	Stratovolcano	S0
+562	Didicas	Luzon-N of	Historical	19.077	N	122.202	E	228	Compound volcano	S0
+563	Babuyan Claro	Luzon-N of	Historical	19.523	N	121.94	E	1080	Stratovolcanoes	S1
+564	Unnamed	Luzon-N of	Historical	20.33	N	121.75	E	-24	Submarine volcano	S0
+565	Iraya	Luzon-N of	Historical	20.469	N	122.01	E	1009	Stratovolcano	S0
+566	Hainan Dao	SE Asia	Historical	19.7	N	110.1	E		Pyroclastic cones	S0
+567	Leizhou Bandao	SE Asia	Holocene	20.78	N	110.17	E	259	Volcanic field	S0
+568	Cù-Lao Ré Group	SE Asia	Holocene	15.38	N	109.12	E	181	Volcanic field	S0
+569	Toroeng Prong	SE Asia	Holocene maybe	14.93	N	108	E	800	Cinder cone	M0
+570	Haut Dong Nai	SE Asia	Holocene maybe	11.6	N	108.2	E	1000	Volcanic field	S0
+571	Bas Dong Nai	SE Asia	Holocene maybe	10.8	N	107.2	E	392	Volcanic field	S0
+572	Cendres Ile des	SE Asia	Historical	10.158	N	109.014	E	-20	Submarine volcanoes	M0
+573	Veteran	SE Asia	Fumarolic	9.83	N	109.05	E		Submarine volcano	S0
+574	Popa	SE Asia	Anthropology	20.92	N	95.25	E	1518	Stratovolcano	S0
+575	Lower Chindwin	SE Asia	Holocene maybe	22.28	N	95.1	E	385	Volcanic field	S0
+576	Singu Plateau	SE Asia	Holocene	22.7	N	95.98	E	507	Fissure vents	S0
+577	Tengchong	SE Asia	Uranium-series	25.23	N	98.5	E	2865	Pyroclastic cones	S0
+578	Unnamed	Taiwan-E of	Uncertain	19.17	N	132.25	E	-10	Submarine volcano  maybe	S0
+579	Unnamed	Taiwan-E of	Uncertain	20.93	N	134.75	E	-6000	Submarine volcano  maybe	U0
+580	Unnamed	Taiwan-E of	Uncertain	21.83	N	121.18	E	-115	Submarine volcano	U0
+581	Kueishantao	Taiwan-E of	Historical	24.85	N	121.92	E	401	Stratovolcano	S0
+582	Unnamed	Taiwan-E of	Historical	24	N	121.83	E		Submarine volcano	S0
+583	Unnamed	Taiwan-N of	Uncertain	25.4	N	122.2	E	-100	Submarine volcano	U0
+584	Zengyu	Taiwan-N of	Uncertain	26.18	N	122.458	E	-418	Submarine volcano	U0
+585	Iriomote-jima	Ryukyu Is	Historical	24.558	N	124	E	-200	Submarine volcano	U0
+586	Yokoate-jima	Ryukyu Is	Historical	28.797	N	128.997	E	495	Stratovolcanoes	S0
+587	Akuseki-jima	Ryukyu Is	Holocene maybe	29.461	N	129.597	E	584	Stratovolcanoes	S0
