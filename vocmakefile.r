@@ -1,5 +1,5 @@
 vooutputs <- c("volcano.tsv", "vocmap.png")
-list.files(pattern = "*.png$"
+list.files(pattern = "*.png$")
 file.remove(vooutputs)
          
 #Run the two scripts
