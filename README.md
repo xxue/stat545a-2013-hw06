@@ -10,7 +10,7 @@ Instructions:
 Download  [vo.txt](https://github.com/xxue/stat545a-2013-hw06/blob/master/vo.txt), [01_cleanvoc.r](https://github.com/xxue/stat545a-2013-hw06/blob/master/01_cleanvoc.r), [02_plotvoc.r](https://github.com/xxue/stat545a-2013-hw06/blob/master/02_plotvoc.r), [03_vocmakefile](https://github.com/xxue/stat545a-2013-hw06/blob/master/03_vocmakefile.r)
 Run the "03_vocmakefile"
 
-Outputs are deposited above as well, just in case.
+
 
 
 
