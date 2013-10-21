@@ -7,8 +7,8 @@ Note on intention:
 I understand that the course does not emphasize on map making, but i am really interested in exploring this aspect using ggplot. It might be relevant to some students as well.
 
 Instructions:
-Download  "vo.txt", "source1.r", "source2.r", "6MAKEFILE"
-Run the "6MAKEFILE"
+Download  "vo.txt", "cleanvoc.r", "plotvoc.r", "vocmakefile"
+Run the "vocmakefile"
 
 
 
